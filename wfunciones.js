@@ -39,7 +39,7 @@ function voltajeCalc(i,res){
     return i*res
 }
 
-//const circleArea = (rd) => (4/3)*Math.PI*(rd**3)
-function circleArea(rd){
+const circleVol = (rd) => (4/3)*Math.PI*(rd**3)
+/*function circleVol(rd){
     return (4/3)*Math.PI*(rd**3)
-}
+} */
